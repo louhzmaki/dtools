@@ -1,0 +1,4 @@
+click>=7.0
+py3Fdfs
+numpy>=1.11
+opencv-python>=3.4
