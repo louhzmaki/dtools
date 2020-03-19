@@ -20,6 +20,7 @@ setup(
 	author_email = "707553427@qq.com",
 	license ='ehualu',
 	description = "data operator tool",
+	url = "https://github.com/louhzmaki/dtools",
 	packages=find_packages(),
 	package_data={'': ['*.*']},
 	install_requires=requirements,
